@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\bin\Debug\tekst_editor.exe.config
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\bin\Debug\tekst_editor.exe
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\bin\Debug\tekst_editor.pdb
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.Form1.resources
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.exe
+C:\Users\Ucenik\source\repos\tekst_editor\tekst_editor\obj\Debug\tekst_editor.pdb
